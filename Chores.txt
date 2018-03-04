@@ -1,0 +1,5 @@
+trash,Sis,Monday
+plumbing,Dad,12/24
+taxes,Mom,3/14
+dishes,Bro,Tuesday
+sweep,Mom,now

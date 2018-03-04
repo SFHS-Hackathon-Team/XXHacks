@@ -1,0 +1,6 @@
+Mom,coolMom,true,parent
+Dad,daddygogo,false,parent
+Sis,truckcarsmud,false,child
+Bro,princesspink,false,child
+Baby,babyfacedassasin,false,child
+BillyBob,BillyBob,false,child

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LitFam360Runner
+comment1.params=
+comment1.target=void\ login()
+comment10.params=new_input
+comment10.target=void\ run_parent_option(int)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ display_menu()
+comment3.params=
+comment3.target=void\ manage_family_display_menu()
+comment4.params=
+comment4.target=void\ displayFamilyMembers()
+comment5.params=
+comment5.target=void\ displayFamilyChores()
+comment6.params=
+comment6.target=void\ displayMyChores()
+comment7.params=
+comment7.target=void\ displayEvents()
+comment8.params=
+comment8.target=void\ displayPeriod()
+comment9.params=new_input
+comment9.target=void\ run_child_option(int)
+numComments=12
